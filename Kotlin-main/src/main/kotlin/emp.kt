@@ -5,7 +5,7 @@ fun getEmp(name: String, salary: Double, role: String): emp {
 }
 
 fun main() {
-    val emp1 = emp("Sohil", 10.0, "Trainer")
+    val emp1 = emp("Sneha", 10.0, "Trainer")
     val emp2 = emp("Aayush", 11.0, "Developer")
     val emp3 = emp("Rihan", 100.0, "Tester")
 
