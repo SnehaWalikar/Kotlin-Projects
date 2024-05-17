@@ -1,3 +1,5 @@
+package Assignment
+
 data class emp(val name: String, val salary: Double, val role:String)
 
 fun getEmp(name: String, salary: Double, role: String): emp {
